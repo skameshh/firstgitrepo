@@ -1,1 +1,1 @@
-print("SCDS Hello World")
+echo 'hello world'
